@@ -220,7 +220,7 @@ section#slides_parent {
 }
 
 .slide_1 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(255, 129, 129, 0.3)), url(../images/recipe_slides/intro-1669144933.webp);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(255, 129, 129, 0.3)), url(Images/intro-1669144933.webp);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -245,29 +245,28 @@ section#slides_parent {
 }
 
 .slide_2 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images/recipe_slides/Paper-Mache-Eggs-600x620.webp);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(Images/Paper-Mache-Eggs-600x620.webp);
 }
 
 .slide_3 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images/recipe_slides/Rassasi-Blue-Sea.webp);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(Images/Rassasi-Blue-Sea.webp);
 }
 
 .slide_4 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images/recipe_slides/Kashmirb7qPFN.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(Images/Kashmirb7qPFN.jpg);
 }
 
 .slide_5 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images/recipe_slides/walnut\ wodden\ craft.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(Images/walnut\ wodden\ craft.jpg);
 }
 
 .slide_6 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images/recipe_slides/bats.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(Images/willow\ bats.jpg);
 }
 
 .slide_7 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images/recipe_slides/traditional\ jewellary.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(Images/traditional\ jewellary.jpg);
 }
-
 .slide_info {
     position: absolute;
     bottom: 51px;
